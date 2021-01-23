@@ -38,3 +38,13 @@ body
 {
     font-size: 20px;
 }
+.footer{
+    background-color: rgb(36, 36, 121);
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 1;
+    font-weight: 600;
+}
